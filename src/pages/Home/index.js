@@ -11,7 +11,7 @@ function Home() {
 
       <div className="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <h1 className="display-4">Preços</h1>
-        <p className="lead">Os preços aqui são apenas um teste, já que precisava ver como o google bot crawler se comportava com reação ao SEO.</p>
+        <p className="lead">Os preços aqui são apenas um teste, já que precisava ver como o google bot crawler se comportava com relação ao SEO.</p>
       </div>
 
       <div className="card-deck mb-3 text-center">
